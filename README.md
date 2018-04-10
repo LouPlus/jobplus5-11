@@ -7,3 +7,5 @@ LouPlus Team 11 https://github.com/LouPlus/jobplus5-11
 * [马华乐](https://github.com/WahLok)
 
 * [HymanZXC](https://github.com/HymanZHAN)
+
+* [Ediacaran](https://github.com/shaoweicode)
